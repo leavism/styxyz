@@ -101,7 +101,7 @@
 
             display-name = "Base";
             bindings = <
-&kp ESC                &kp Q                 &kp W            &kp F               &kp P           &kp B        &kp J               &kp L           &kp U                &kp Y            &kp SEMICOLON          &kp LA(BSPC)
+&kp ESC                &kp Q                 &kp W            &kp F               &kp P           &kp B        &kp J               &kp L           &kp U                &kp Y            &kp SEMICOLON          &kp BSPC
 &kp TAB                &HMR_kp LEFT_SHIFT A  &HMR_kp LCTRL R  &HMR_kp LEFT_ALT S  &HMR_layer 1 T  &kp G        &kp M               &HML_layer 1 N  &HML_kp RIGHT_ALT E  &HML_kp RCTRL I  &HML_kp RIGHT_SHIFT O  &kp SQT
 &td_capsword_capslock  &kp Z                 &kp X            &kp C               &kp D           &kp V        &kp K               &kp H           &kp COMMA            &kp DOT          &kp FSLH               &kp MINUS
                                                               &mo 3               &kp LGUI        &kp ENTER    &mt LEFT_ALT ENTER  &lt 2 SPACE     &mt LC(LA(F21)) F12
@@ -117,7 +117,7 @@
 
             display-name = "Num";
             bindings = <
-&kp GRAVE      &kp EXCLAMATION  &kp AT      &kp RIGHT_BRACE        &kp LEFT_BRACE        &kp BACKSLASH    &kp MINUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp COLON     &kp BSPC
+&kp GRAVE      &kp EXCLAMATION  &kp AT      &kp RIGHT_BRACE        &kp LEFT_BRACE        &kp BACKSLASH    &kp MINUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp COLON     &kp LA(BSPC)
 &kp TILDE      &kp ASTERISK     &kp CARET   &kp RIGHT_PARENTHESIS  &kp LEFT_PARENTHESIS  &kp SLASH        &kp PLUS   &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &none
 &kp AMPERSAND  &kp HASH         &kp DOLLAR  &kp RIGHT_BRACKET      &kp LEFT_BRACKET      &kp PERCENT      &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT       &none
                                             &trans                 &trans                &trans           &trans     &trans        &trans
