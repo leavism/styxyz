@@ -101,8 +101,8 @@
 
             display-name = "Num";
             bindings = <
-&kp GRAVE      &kp EXCLAMATION  &kp AT      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH    &kp MINUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp COLON     &kp LA(BSPC)
-&kp TILDE      &kp ASTERISK     &kp CARET   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SLASH        &kp PLUS   &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &none
+&kp GRAVE      &kp EXCLAMATION  &kp AT      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH    &kp PLUS   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp COLON     &kp LA(BSPC)
+&kp TILDE      &kp ASTERISK     &kp CARET   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SLASH        &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &none
 &kp AMPERSAND  &kp HASH         &kp DOLLAR  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PERCENT      &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOT       &none
                                             &trans                &trans                 &trans           &trans     &trans        &trans
             >;
